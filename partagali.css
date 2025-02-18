@@ -1283,6 +1283,7 @@ img.parallax-slider-img {
   justify-content: center;
   width: 100%;
   column-gap: 60px;
+  margin-left: 8%;
 }
 .parallax-slider3-large-img {
   width: 40%;
